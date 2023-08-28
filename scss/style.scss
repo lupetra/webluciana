@@ -1,0 +1,36 @@
+@import 'variables/_variables';
+@import 'layout/_body';
+
+body .section1 h1 {
+    font-size: 70px;
+}
+section .experienciaTrabajo {
+    position: relative;
+
+    img{
+        position: absolute;
+        border: 3px solid #73AD21;
+        bottom: 0px;
+        right: 40px;
+    }
+
+}
+
+
+
+
+body 
+{
+        .section3 {
+               height: 900px;
+               width: 100%;
+
+
+            .herramientas {
+                width: 57px ;
+                height: 57px;
+                border-radius: 50%;
+                background-color: rgb(23, 23, 23);
+                         }
+                }
+}

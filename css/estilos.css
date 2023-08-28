@@ -1,0 +1,28 @@
+body .section1 {
+  background-color: #caaf53;
+  height: 300px;
+  width: 100%;
+}
+
+section .experienciaTrabajo {
+  position: relative;
+}
+section .experienciaTrabajo img {
+  position: absolute;
+  border: 3px solid #73AD21;
+  bottom: 0px;
+  right: 40px;
+}
+
+body .section3 {
+  height: 900px;
+  width: 100%;
+}
+body .section3 .herramientas {
+  width: 57px;
+  height: 57px;
+  border-radius: 50%;
+  background-color: rgb(23, 23, 23);
+}
+
+/*# sourceMappingURL=estilos.css.map */
